@@ -1,2 +1,2 @@
-# backtracking-Algorithm
+# exact newton search
 Convex Optimzation
